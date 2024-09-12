@@ -204,7 +204,7 @@ nav header .links li a.active {
     color: var(--main-color);
 }
 
-.last-items img {
+.last-items .img {
     width: 320px;
     display: flex;
     border-radius: 10px;
