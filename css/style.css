@@ -221,7 +221,7 @@ nav header .links li a.active {
     display: block;
     min-height: 57vh;
     min-width: 50vh;
-    background: url(../images/about-us.jpg) no-repeat center center;
+    background: url(./images/about-us.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 20px;
 }
