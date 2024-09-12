@@ -106,7 +106,7 @@ nav header .links li a.active {
 .category {
     position: relative;
     padding: 50px;
-    background: url(../images/gift-3.jpg) no-repeat center center;
+    background: url(./images/gift-3.jpg) no-repeat center center;
     background-size: cover;
     border: 18px solid white;
     border-radius: 10px;
